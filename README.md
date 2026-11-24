@@ -19,6 +19,16 @@ Training process photos were generated with ImageGen and are labelled accordingl
 
 ## Hosting
 
-Live application: https://culinaryflow.shady2kk.chatgpt.site/
+Live application: https://oykusumbulogluu-altg.github.io/culinaryflow/
+
+Original hosting: https://culinaryflow.shady2kk.chatgpt.site/
 
 This repository contains the static application files at its root. Run `python3 -m http.server 8000` in this folder, then open http://localhost:8000. No build step is required.
+
+## Operations panel
+
+Blush pink sidebar, production tables, batch details, live stage timers, inventory, receiving, twelve recipes, photo training and reports. Records remain local to the browser.
+
+## GitHub Pages
+
+Publish from main branch and the repository root in Settings > Pages. No build command is required.
